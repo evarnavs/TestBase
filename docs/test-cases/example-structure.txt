@@ -1,0 +1,8 @@
+/test-cases
+  /authentication
+    TC001-Login-Test.md
+    TC002-Reset-Password-Test.md
+  /checkout
+    TC003-Add-to-Cart-Test.md
+    TC004-Checkout-Flow-Test.md
+

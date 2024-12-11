@@ -1,0 +1,4 @@
+/guides
+  How-to-Setup-Testing-Environment.md
+  Guide-to-Run-Automated-Tests.md
+
